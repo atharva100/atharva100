@@ -54,7 +54,6 @@ My Github stats :
 
 Well thats about it for now, See ya !   <img src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 60%;">
 
-[![HitCount](https://hits.dwyl.com/atharva100/atharva100.svg?style=flat-square)](http://hits.dwyl.com/atharva100/atharva100)
 
 <!--
 **atharva100/atharva100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
