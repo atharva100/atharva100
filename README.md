@@ -53,6 +53,9 @@ My Github stats :
 <!-- <img src="https://camo.githubusercontent.com/4a455e9816f0ca86af34d50babea6f23aacc5df73f03a5807143161461d158af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4161746d616a2d5a6570687972266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva100&amp;layout=compact" style="max-width: 100%;"> -->
 
 Well thats about it for now, See ya !   <img src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 60%;">
+
+[![HitCount](https://hits.dwyl.com/atharva100/atharva100.svg?style=flat-square)](http://hits.dwyl.com/atharva100/atharva100)
+
 <!--
 **atharva100/atharva100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
