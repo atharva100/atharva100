@@ -46,6 +46,8 @@ Lets connect and have fun collaborating !         <img src="https://github.com/T
 
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
 
+<img height="30" src="https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="JAVA" data-canonical-src="https://img.shields.io/badge/java-%23ED8B00.svg?&amp;style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
+
 My Github stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva100)](https://github.com/atharva100/github-readme-stats)
