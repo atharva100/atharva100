@@ -1,6 +1,6 @@
 ### Hello World , I'm Atharva ! 😄 
 
-<li>I'm currently a third year college student and really interested in exploring computer science :)
+<li>I'm currently a fourth year college student and really interested in exploring computer science :)
 
 <li>Interested in collaborating and developing cool projects
 
