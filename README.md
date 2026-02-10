@@ -1,6 +1,6 @@
 ### Hello World , I'm Atharva ! 😄 
 
-<li>I'm currently a fourth year college student and really interested in exploring computer science :)
+<li>I'm currently a graduate student at the University of Wisconsin- Madison and really interested in exploring the intersection of data science and business :)
 
 <li>Interested in collaborating and developing cool projects
 
