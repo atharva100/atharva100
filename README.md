@@ -4,8 +4,6 @@
 
 <li>Interested in collaborating and developing cool projects
 
-<li>Determined to create a diverse portfolio before i leave for masters in the USA ! ✨
-
 <li>Hit me up if you wanna collaborate on a fun project ^ ^
 <br>
 <br>
