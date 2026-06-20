@@ -35,7 +35,7 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
-**Cloud platforms
+**Cloud platforms**
 </b>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
