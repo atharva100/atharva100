@@ -46,7 +46,7 @@
 
 Lets connect and have fun collaborating !         
 
-<a href="mailto:atharvakarawade1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="mailto:atharvakarawade1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmaili"></a>
 
 My Github stats :
 
