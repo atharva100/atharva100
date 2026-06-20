@@ -8,12 +8,6 @@
 <br>
 <br>
 
-<rect xmlns="http://www.w3.org/2000/svg" width="256" height="256" rx="60" fill="#F0DB4F"/>
-
-<path xmlns="http://www.w3.org/2000/svg" d="M67.3117 213.932L86.9027 202.076C90.6821 208.777 94.1202 214.447 102.367 214.447C110.272 214.447 115.256 211.355 115.256 199.327V117.529H139.314V199.667C139.314 224.584 124.708 235.926 103.398 235.926C84.1533 235.926 72.9819 225.959 67.3113 213.93" fill="#323330"/>
-
-<path xmlns="http://www.w3.org/2000/svg" d="M152.381 211.354L171.969 200.013C177.126 208.434 183.828 214.62 195.684 214.62C205.653 214.62 212.009 209.636 212.009 202.762C212.009 194.514 205.479 191.592 194.481 186.782L188.468 184.203C171.111 176.815 159.597 167.535 159.597 147.945C159.597 129.901 173.345 116.153 194.826 116.153C210.12 116.153 221.118 121.481 229.022 135.4L210.291 147.429C206.166 140.04 201.7 137.119 194.826 137.119C187.78 137.119 183.312 141.587 183.312 147.429C183.312 154.646 187.78 157.568 198.09 162.037L204.104 164.614C224.553 173.379 236.067 182.313 236.067 202.418C236.067 224.072 219.055 235.928 196.2 235.928C173.861 235.928 159.426 225.274 152.381 211.354" fill="#323330"/>
-
 ### 🛠️ My Skills
 
 **Languages & ML**
@@ -41,50 +35,13 @@
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)
-<!-- <img src= "https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465"> -->
 
-<!-- <img src = "https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465"> -->
-
-<!-- <img src = "https://camo.githubusercontent.com/121f5000155889c0642b8a6b2a33a7f5fbe5c32d9133dac405ac269da15fcf94/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532422532422d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465"> -->
-
-<!-- <img src = "https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"> -->
-
-<table border="2" align="center">
-<tbody><tr><td>
-<p  dir="auto"><strong>My current skills ! </strong></p>
-
-
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/87f8b4bfb89380f96a10d753be68a6d8d214160f908af4487557b20083ffc601/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/87f8b4bfb89380f96a10d753be68a6d8d214160f908af4487557b20083ffc601/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c615465582d3437413134313f7374796c653d666f722d7468652d6261646765266c6f676f3d4c61546558266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&amp;logo=LaTeX&amp;logoColor=white" style="max-width: 100%;"></a> -->
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/510a057988cb5216f5d297ee202f6a08fa179798926cea28e95910f6b8ca5535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" style="max-width: 100%;"></a></p> -->
-<!-- <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a5f3a38969e58b9ae57b1b44f77a18f4635d4d55005e69f95b938f4c238d21a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d41544c41422d696d61676525323070726f63657373696e672d79656c6c6f77677265656e"><img src="https://camo.githubusercontent.com/a5f3a38969e58b9ae57b1b44f77a18f4635d4d55005e69f95b938f4c238d21a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d41544c41422d696d61676525323070726f63657373696e672d79656c6c6f77677265656e" alt="MATLAB" data-canonical-src="https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen" style="max-width: 100%;"></a> -->
-<!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/cae0fb9f011c63f229653470721aebabdc6d6dcd055e1a01fe785ab46cd3352d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57332e4353532d526573706f6e736976652d627269676874677265656e"><img src="https://camo.githubusercontent.com/cae0fb9f011c63f229653470721aebabdc6d6dcd055e1a01fe785ab46cd3352d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57332e4353532d526573706f6e736976652d627269676874677265656e" alt="" data-canonical-src="https://img.shields.io/badge/W3.CSS-Responsive-brightgreen" style="max-width: 100%;"></a></p> -->
- 
 Lets connect and have fun collaborating !         <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width: 100%;">
 
 <img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;">
-
-
 
 My Github stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva100)](https://github.com/atharva100/github-readme-stats)
 
-<!-- <img src="https://camo.githubusercontent.com/4a455e9816f0ca86af34d50babea6f23aacc5df73f03a5807143161461d158af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4161746d616a2d5a6570687972266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharva100&amp;layout=compact" style="max-width: 100%;"> -->
-
 Well thats about it for now, See ya !   <img src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 60%;">
-
-
-<!--
-**atharva100/atharva100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
