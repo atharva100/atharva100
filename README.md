@@ -24,8 +24,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
 
 **Databases & Platforms**
 
