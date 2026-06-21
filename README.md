@@ -2,8 +2,7 @@
 
 <li>I'm currently a graduate student at the University of Wisconsin- Madison and really interested in the intersection of data engineering and business!
 
-<li>Interested in collaborating and developing cool projects
-
+<li> I love exploring new domains and applying data skills to improve business decisions on a large scale.
 <li>Hit me up if you wanna collaborate on a fun project ^ ^
 <br>
 <br>
