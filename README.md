@@ -49,6 +49,7 @@ Lets connect and have fun collaborating !
 
 My Github stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharva100)](https://github.com/atharva100/github-readme-stats)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atharva100&theme=github_dark)
 
-Well thats about it for now, See ya !   <img src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 60%;">
+Well thats about it for now, See ya !   
+<img width = "50" src="https://user-images.githubusercontent.com/83284294/124421267-b65b8100-dd7e-11eb-83a6-b3572a3ee21f.gif" alt="ezgif-2-f0bfd8f7bd26" style="max-width: 60%;"></img>
